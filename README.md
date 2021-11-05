@@ -4,7 +4,7 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+I was able to do this project by watching speedcode of this app from a youtube channel The Flutter Way. I learned a lot of things and helped imporved my frontend skills
 
 A few resources to get you started if this is your first Flutter project:
 
